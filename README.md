@@ -42,3 +42,4 @@ npm run build
 ```sh
 npm run lint
 ```
+https://www.loom.com/share/0630c45119e54c7a9216e3e5caac1056
